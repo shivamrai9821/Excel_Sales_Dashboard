@@ -52,6 +52,8 @@ The goal of this dashboard is to convert raw data into meaningful insights that 
 3. Use filters and slicers to explore the dashboard  
 
 ---
-
+Author
+Shivam Rai
+---
 # Excel_Sales_Dashboard
 This project presents an interactive Sales Dashboard built to analyze and visualize key business metrics using real-world retail data. The dashboard provides meaningful insights into sales performance, customer behavior, and regional trends.     
